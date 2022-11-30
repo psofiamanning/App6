@@ -17,6 +17,10 @@
   "bugs": {
     "url": "https://github.com/kogsio/littletiers/issues"
   },
+  "keywords": [
+    "example",
+    "heroku"
+  ],
   "homepage": "https://github.com/kogsio/littletiers#readme",
   "dependencies": {
     "@faker-js/faker": "^7.4.0",
